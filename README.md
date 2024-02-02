@@ -1,3 +1,3 @@
-# LinearRegression
+# LinearRegression is a machine learning model which uses Linear relationship between the independent and dependent variable..  
 simple linear regression on the dataset using Scikit Learning package
-for advertisement data set
+for advertisement data set 
